@@ -22,6 +22,5 @@ int main()
         cout<<arr[i]<<" ";
     }
 
-    cout<<"Hello";
 }
 
